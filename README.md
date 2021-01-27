@@ -1,2 +1,2 @@
 # RecipeAppAPI
-An API for a recipe app
+A follow-along of the course "Build a Backend REST API with Python & Django - Advanced".
